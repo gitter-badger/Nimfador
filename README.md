@@ -1,5 +1,7 @@
 # Nimfador
 
+[![Join the chat at https://gitter.im/CubaQ/Nimfador](https://badges.gitter.im/CubaQ/Nimfador.svg)](https://gitter.im/CubaQ/Nimfador?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ------------
 
 ##### Project's primar objectives: 
