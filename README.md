@@ -4,7 +4,8 @@
 
 ##### Project's primar objectives: 
 
-Code in **C++** to change static IP for Windows  
+Code in **C++** to change static IP for making an APP for:
+Windows 10, WinPhone, Android and iPhone.
 
 The program **MUST** include **EnableStatic()** 
 which is WMI method. 
