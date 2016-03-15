@@ -1,6 +1,8 @@
 # Nimfador
 
-Project's primar objectives: 
+------------
+
+##### Project's primar objectives: 
 
 Code in **C++** to change static IP for Windows  
 
